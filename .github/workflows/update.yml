@@ -23,6 +23,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add Daksh1.m3u
+          git add Daksh2.m3u
           git commit -m "Playlist update $(date -u)"
           git push
